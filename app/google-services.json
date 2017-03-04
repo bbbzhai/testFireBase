@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "402551277636",
+    "firebase_url": "https://sptodoapp-82700.firebaseio.com",
+    "project_id": "sptodoapp-82700",
+    "storage_bucket": "sptodoapp-82700.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402551277636:android:3699c4583812aaff",
+        "android_client_info": {
+          "package_name": "com.bobzhai.test.to_do"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402551277636-p9n0ebb9casf1lvc11jdg3mcat56a03u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsGQszPCsk7CXLClXRiKVdKJuuaqznNYI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
